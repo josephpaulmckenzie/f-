@@ -11,3 +11,4 @@ let fizzBuzzTo max =
         |> ignore
 
 fizzBuzzTo 100
+
